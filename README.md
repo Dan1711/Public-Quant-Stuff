@@ -1,2 +1,2 @@
 # Public-Quant-Stuff
-Public quantitative algos for trading and portfolio management 
+Public resources for quantitative trading and portfolio management as well as some infrastructure projects
