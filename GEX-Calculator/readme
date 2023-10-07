@@ -1,1 +1,3 @@
+GEX calculator using bybit API v5 to import real time data from its option's chain,
 
+using pandas dataframes to better handle the information from Bybit's endpoint.
