@@ -1,1 +1,8 @@
+Trading Engine in Python
+
+Simulates a matching engine for limit and market orders, dealing with partial fills/matches 
+
+
+test.py can be run to simulate activity in real time.
+
 
